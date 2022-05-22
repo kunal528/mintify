@@ -1,0 +1,25 @@
+.navbar-container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem 8rem;
+  background: #25272e;
+  border: 1px solid #383940;
+}
+
+.navbar-logo {
+  display: flex;
+  flex:1;
+  align-items: center;
+  justify-content: left;
+  gap: 0 20px;
+}
+
+.navbar-logo-text {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #38f2af;
+}

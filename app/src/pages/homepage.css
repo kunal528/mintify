@@ -1,0 +1,27 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 259px);
+  grid-gap: 3rem;
+  padding: 0 8rem;
+}
+
+.header-section {
+  padding: 2rem 8rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-section-content {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+.create-button {
+  background: #38f2af;
+  border-radius: 4px;
+  padding: 6px 18px 6px 18px;
+}

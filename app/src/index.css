@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #2b2c33;
+  font-family: "Allerta Stencil", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.remove-link {
+  text-decoration: none;
+}
