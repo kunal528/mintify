@@ -3,6 +3,6 @@ Name: Mintify
 
 Link: https://github.com/kunal528/mintify
 
-Video Preview: [https://youtu.be/cPYhxwtyW8w](https://youtu.be/cPYhxwtyW8w)
+Video Preview: 
 
-[![Watch the video](https://i9.ytimg.com/vi/cPYhxwtyW8w/mq3.jpg?sqp=COyuqpQG&rs=AOn4CLDTJv4CuPi3KMK2ds030zadrgkefw)](https://youtu.be/cPYhxwtyW8w)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cPYhxwtyW8w/0.jpg)](http://www.youtube.com/watch?v=cPYhxwtyW8w "Video Title")
